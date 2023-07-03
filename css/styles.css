@@ -28,7 +28,7 @@ body {
 /*------------------HEADER----------------------*/
 
 .header-logo {
-color: var(--primary-text);
+color: var(--primary-accent-color);
 font-size: 18px;
 font-family: 'Raleway', sans-serif;
 font-weight: 800;
@@ -37,7 +37,7 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 .header-logo-accent {
-    color: var(--primary-accent-color);
+    color: var(--primary-text);
 }
 .header-list {
     color: var(--primary-text);
@@ -185,7 +185,7 @@ letter-spacing: 0.32px;
     background-color: var(--background-accent);
 }
 .footer-logo {
-color: var(--secondary-text-light);
+color: var(--primary-accent-color);
 font-size: 18px;
 font-family: 'Raleway', sans-serif;
 font-style: normal;
@@ -195,7 +195,7 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 .footer-logo-accent {
-    color: var(--primary-accent-color);
+    color: var(--secondary-text-light);
 }
 .footer-text {
     color: var(--secondary-text-light);
